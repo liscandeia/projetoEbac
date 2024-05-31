@@ -53,6 +53,3 @@ As conexões com o banco de dados são gerenciadas de forma adequada utilizando 
 
 Contribuições são bem-vindas! Se você identificar bugs, melhorias ou novos recursos que podem ser implementados, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
